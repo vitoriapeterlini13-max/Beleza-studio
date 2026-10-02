@@ -3,7 +3,6 @@
 // =============================
 const WHATSAPP = "5514998978069"; // TROQUE pelo WhatsApp com DDI + DDD, somente números.
 const INSTAGRAM = "https://instagram.com/seuinstagram";
-const FACEBOOK = "https://facebook.com/seufacebook";
 
 // Links de WhatsApp
 function whatsappLink(service = "") {
